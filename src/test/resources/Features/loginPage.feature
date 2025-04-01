@@ -22,7 +22,6 @@ Feature: Login feature
     Examples: 
       | username | password     |
       | poongodi | poongodi1234 |
-      | student  | Password123  |
-      | ajai     | ajai12345    |
+      
 
   
